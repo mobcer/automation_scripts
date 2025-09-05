@@ -1,0 +1,51 @@
+2025-09-05 20:30:05 - Successfully downloaded https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-af.txt
+2025-09-05 20:30:06 - Downloaded file size: 1088573 bytes
+2025-09-05 20:30:06 - Temporary file size before splitting: 10459873 bytes
+2025-09-05 20:30:06 - Splitting /opt/ff/cache/temp_ipin_feeds.txt into parts with a maximum of 131000 lines each
+2025-09-05 20:30:06 - Successfully split /opt/ff/cache/temp_ipin_feeds.txt into parts with prefix /opt/ff/ipin_list_part
+2025-09-05 20:30:06 - Files processed and saved to /opt/ff
+2025-09-05 20:30:06 - Processing section: URL_FEEDS
+2025-09-05 20:30:06 - Downloading https://raw.githubusercontent.com/romainmarcoux/malicious-domains/main/full-domains-aa.txt to /opt/ff/cache/full-domains-aa.txt
+2025-09-05 20:30:06 - Downloading https://raw.githubusercontent.com/romainmarcoux/malicious-domains/main/full-domains-ab.txt to /opt/ff/cache/full-domains-ab.txt
+2025-09-05 20:30:06 - Downloading # Hash Feeds to /opt/ff/cache/# Hash Feeds
+2025-09-05 20:30:06 - Failed to download # Hash Feeds (HTTP error or timeout)
+2025-09-05 20:30:06 - Successfully downloaded https://raw.githubusercontent.com/romainmarcoux/malicious-domains/main/full-domains-ab.txt
+2025-09-05 20:30:06 - Downloaded file size: 519510 bytes
+2025-09-05 20:30:08 - Successfully downloaded https://raw.githubusercontent.com/romainmarcoux/malicious-domains/main/full-domains-aa.txt
+2025-09-05 20:30:08 - Downloaded file size: 2000433 bytes
+2025-09-05 20:30:08 - Temporary file size before splitting: 2519943 bytes
+2025-09-05 20:30:08 - Splitting /opt/ff/cache/temp_url_feeds.txt into parts with a maximum of 131000 lines each
+2025-09-05 20:30:08 - Successfully split /opt/ff/cache/temp_url_feeds.txt into parts with prefix /opt/ff/url_list_part
+2025-09-05 20:30:08 - Files processed and saved to /opt/ff
+2025-09-05 20:30:08 - Processing section: HASH_FEEDS
+2025-09-05 20:30:08 - Downloading https://raw.githubusercontent.com/romainmarcoux/malicious-hash/main/full-hash-md5-aa.txt to /opt/ff/cache/full-hash-md5-aa.txt
+2025-09-05 20:30:08 - Downloading https://raw.githubusercontent.com/romainmarcoux/malicious-hash/main/full-hash-sha1-aa.txt to /opt/ff/cache/full-hash-sha1-aa.txt
+2025-09-05 20:30:08 - Downloading https://raw.githubusercontent.com/romainmarcoux/malicious-hash/main/full-hash-sha256-aa.txt to /opt/ff/cache/full-hash-sha256-aa.txt
+2025-09-05 20:30:08 - Downloading # IP Output Feeds to /opt/ff/cache/# IP Output Feeds
+2025-09-05 20:30:08 - Failed to download # IP Output Feeds (HTTP error or timeout)
+2025-09-05 20:30:08 - Successfully downloaded https://raw.githubusercontent.com/romainmarcoux/malicious-hash/main/full-hash-sha1-aa.txt
+2025-09-05 20:30:08 - Downloaded file size: 22263 bytes
+2025-09-05 20:30:08 - Successfully downloaded https://raw.githubusercontent.com/romainmarcoux/malicious-hash/main/full-hash-md5-aa.txt
+2025-09-05 20:30:08 - Downloaded file size: 132990 bytes
+2025-09-05 20:30:10 - Successfully downloaded https://raw.githubusercontent.com/romainmarcoux/malicious-hash/main/full-hash-sha256-aa.txt
+2025-09-05 20:30:10 - Downloaded file size: 5092295 bytes
+2025-09-05 20:30:10 - Temporary file size before splitting: 5247548 bytes
+2025-09-05 20:30:10 - Splitting /opt/ff/cache/temp_hash_feeds.txt into parts with a maximum of 131000 lines each
+2025-09-05 20:30:10 - Successfully split /opt/ff/cache/temp_hash_feeds.txt into parts with prefix /opt/ff/hash_list_part
+2025-09-05 20:30:10 - Files processed and saved to /opt/ff
+2025-09-05 20:30:10 - Processing section: IPOUT_FEEDS
+2025-09-05 20:30:10 - Downloading https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/main/full-outgoing-ip-aa.txt to /opt/ff/cache/full-outgoing-ip-aa.txt
+2025-09-05 20:30:10 - Downloading https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/main/full-outgoing-ip-ab.txt to /opt/ff/cache/full-outgoing-ip-ab.txt
+2025-09-05 20:30:10 - Downloading https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/main/full-outgoing-ip-40k.txt to /opt/ff/cache/full-outgoing-ip-40k.txt
+2025-09-05 20:30:11 - Successfully downloaded https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/main/full-outgoing-ip-ab.txt
+2025-09-05 20:30:11 - Downloaded file /opt/ff/cache/full-outgoing-ip-ab.txt is empty
+2025-09-05 20:30:11 - Successfully downloaded https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/main/full-outgoing-ip-40k.txt
+2025-09-05 20:30:11 - Downloaded file size: 550976 bytes
+2025-09-05 20:30:12 - Successfully downloaded https://raw.githubusercontent.com/romainmarcoux/malicious-outgoing-ip/main/full-outgoing-ip-aa.txt
+2025-09-05 20:30:12 - Downloaded file size: 1697536 bytes
+2025-09-05 20:30:12 - Temporary file size before splitting: 2248512 bytes
+2025-09-05 20:30:12 - Splitting /opt/ff/cache/temp_ipout_feeds.txt into parts with a maximum of 131000 lines each
+2025-09-05 20:30:12 - Successfully split /opt/ff/cache/temp_ipout_feeds.txt into parts with prefix /opt/ff/ipout_list_part
+2025-09-05 20:30:12 - Files processed and saved to /opt/ff
+2025-09-05 20:30:12 - Script execution completed. Check the log file for details: /opt/ff/script.log
+2025-09-05 20:30:12 - Cache cleanup completed.
